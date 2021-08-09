@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605087363636",
+    "project_id": "chatstream-1086c",
+    "storage_bucket": "chatstream-1086c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605087363636:android:3d512b4e327401424b5061",
+        "android_client_info": {
+          "package_name": "com.project.chatstream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605087363636-nkpt5dqkged8s6r2nco3v4s24eb7ulnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj4jRSNqp4b0Z8Mha03mLA_Q1Z5JkPkPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605087363636-nkpt5dqkged8s6r2nco3v4s24eb7ulnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
