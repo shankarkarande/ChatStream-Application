@@ -24,8 +24,8 @@ In this project we have created a simple real-time chatting application using an
 <li>Our main motto is to connect people and to establish such a environment that creates a healthy platform for the people to interact with each other and to access such applications in user friendly manner.</li>
 
 # Developers
-<li>Mayuresh Hivarekar (<a href="mailto:mayureshh1234@gmail.com"></a>)mayureshh1234@gmail.com</li>
-<li>Shankar Karande (<a href="mailto:shankarkarande440@gmai.com"></a>)shankarkarande440@gmai.com</li>
+<li>Shankar Karande (<a href="mailto:shankarkarande440@gmai.com">shankarkarande440@gmai.com</a>)</li>
+<li>Mayuresh Hivarekar (<a href="mailto:mayureshh1234@gmail.com">mayureshh1234@gmail.com</a>)</li>
 <li>Harsh Wangikar (<a href="harshwangikar14@gmail.com">harshwangikar14@gmail.com</a>)</li>
 </ul>
 
