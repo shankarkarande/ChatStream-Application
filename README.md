@@ -7,7 +7,21 @@ In this project we have created a simple real-time chatting application using an
 </li>
 
 # Scope
-<li>As per requirements additional updates may be done in future. Mostly may be used by the people living in rural areas. Also to make the application more reliable and easy to use application may be used widely. The purpose of the chat application is to allow users be able to the chat with each other, like a normal chat application. The users will be able to chat with each other, most likely only from user to user, no group chatting will be developed, unless there is time to do so.</li>
+<li justify>As per requirements additional updates may be done in future. Mostly may be used by the people living in rural areas. Also to make the application more reliable and easy to use application may be used widely. The purpose of the chat application is to allow users be able to the chat with each other, like a normal chat application. The users will be able to chat with each other, most likely only from user to user, no group chatting will be developed, unless there is time to do so.</li>
 
-<img>![image](https://user-images.githubusercontent.com/87746478/155527637-7b96776c-5372-45fa-a349-014fce716105.png)</img>
+# Advantages 
+<li>Faster Support</li>
+<li>Real-time text preview</li>
+<li>No waiting queues</li>
+<li>Low barrier</li>
+<li>24/7 support</li>
+<li>Security</li>
+<li>Good Efficiency</li>
+
+# Conclusion
+<li>The purpose of the project is to build a secure chat application program to reduce the work for managing the chat application; it establishes a connection between two different systems. From this project we learnt about working of authentication, real-time database, and cloud storage.
+</li>
+<li>Our main motto is to connect people and to establish such a environment that creates a healthy platform for the people to interact with each other and to access such applications in user friendly manner.</li>
+
+
 
