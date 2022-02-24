@@ -19,9 +19,15 @@ In this project we have created a simple real-time chatting application using an
 <li>Good Efficiency</li>
 
 # Conclusion
-<li>The purpose of the project is to build a secure chat application program to reduce the work for managing the chat application; it establishes a connection between two different systems. From this project we learnt about working of authentication, real-time database, and cloud storage.
+<li>The purpose of the project is to build a secure chat application program to reduce the work for managing the chat application; it            establishes a connection between two different systems. From this project we learnt about working of authentication, real-time database, and cloud storage.
 </li>
 <li>Our main motto is to connect people and to establish such a environment that creates a healthy platform for the people to interact with each other and to access such applications in user friendly manner.</li>
+
+# Developers
+<li>Mayuresh Hivarekar (<a href="mailto:mayureshh1234@gmail.com"></a>)mayureshh1234@gmail.com</li>
+<li>Shankar Karande (<a href="mailto:shankarkarande440@gmai.com"></a>)shankarkarande440@gmai.com</li>
+<li>Harsh Wangikar (<a href="harshwangikar14@gmail.com">harshwangikar14@gmail.com</a>)</li>
+</ul>
 
 
 
