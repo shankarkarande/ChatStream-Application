@@ -8,4 +8,6 @@ In this project we have created a simple real-time chatting application using an
 
 # Scope
 <li>As per requirements additional updates may be done in future. Mostly may be used by the people living in rural areas. Also to make the application more reliable and easy to use application may be used widely. The purpose of the chat application is to allow users be able to the chat with each other, like a normal chat application. The users will be able to chat with each other, most likely only from user to user, no group chatting will be developed, unless there is time to do so.</li>
-![image](https://user-images.githubusercontent.com/87746478/155527415-7330d0ef-9cdc-484e-9ad5-8c1f942094c6.png)
+
+<img>![image](https://user-images.githubusercontent.com/87746478/155527637-7b96776c-5372-45fa-a349-014fce716105.png)</img>
+
