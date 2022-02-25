@@ -29,5 +29,9 @@ In this project we have created a simple real-time chatting application using an
 <li>Harsh Wangikar (<a href="harshwangikar14@gmail.com">harshwangikar14@gmail.com</a>)</li>
 </ul>
 
+# Appendix
+<li>Visit Following Link for more Info :- </li>
+<li><a href = "https://shankarkarandeprojects.blogspot.com/2022/02/realtime-chatting-application-chatstream.html"></li>
+
 
 
