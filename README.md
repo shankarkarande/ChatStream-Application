@@ -30,7 +30,10 @@ In this project we have created a simple real-time chatting application using an
 </ul>
 
 # Appendix
-<li>Visit Following Link for more Info :- <a href = "https://shankarkarandeprojects.blogspot.com/2022/02/realtime-chatting-application-chatstream.html"></a></li>
+<p dir="auto">Visit Following Link For More Info :-
+<a href="https://shankarkarandeprojects.blogspot.com/2022/02/realtime-chatting-application-chatstream.html" rel="nofollow">https://shankarkarandeprojects.blogspot.com/2022/02/realtime-chatting-application-chatstream.html</a></p>
+
+
 
 
 
