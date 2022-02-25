@@ -30,8 +30,7 @@ In this project we have created a simple real-time chatting application using an
 </ul>
 
 # Appendix
-<li>Visit Following Link for more Info :- </li>
-<li><a href = "https://shankarkarandeprojects.blogspot.com/2022/02/realtime-chatting-application-chatstream.html"></li>
+<li>Visit Following Link for more Info :- <a href = "https://shankarkarandeprojects.blogspot.com/2022/02/realtime-chatting-application-chatstream.html"></a></li>
 
 
 
